@@ -8,7 +8,7 @@
 
 /* Inizio body */
 body{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -60,7 +60,7 @@ body{
     color: white;    
     font-size: 25px;
 }
-.green-left{
+.green-left0{
     position: absolute;
     bottom: 30px;
     left: 0px;
@@ -77,7 +77,6 @@ body{
     padding: 10px 15px;
 }
 /* Fine testo sulla foto */
-
 .prezzo-rosso{
     color: red;
     font-size: 22px;       
@@ -99,23 +98,18 @@ body{
 .container:hover .img1b{
     display: initial;
 }
-
 .container:hover .img1{
     display: none;
 }
-
 .container2:hover .img1b{
     display: initial;
 }
-
 .container2:hover .img1{
     display: none;
 }
-
 .container3:hover .img1b{
     display: initial;
 }
-
 .container3:hover .img1{
     display: none;
 }
